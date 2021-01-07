@@ -1,5 +1,7 @@
 # Hero Game
 
+Simple console app made with python
+
 ## Installation
 
 Install coverage for testing.\
